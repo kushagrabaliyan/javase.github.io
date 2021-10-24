@@ -1,0 +1,11 @@
+body
+{
+    margin: 0;
+    padding: 0;
+}
+.warning
+{
+    position: absolute;
+    font-size: 92px;
+    font: #e84118;
+}
